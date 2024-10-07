@@ -15,7 +15,7 @@ Francais
 
 Cette application web est conçue pour engager les utilisateurs à travers des quiz sur le football et pour gérer des scénarios de quiz comportant plusieurs étapes. Elle inclut des profils d'utilisateurs basés sur des rôles, tels que Administrateurs et Organisateurs, qui peuvent créer et gérer des quiz. Les utilisateurs peuvent également interagir avec les quiz en visualisant les scénarios et en y participant.
 
-L'application est construite en utilisant **Bootstrap** pour un design réactif et une interface utilisateur conviviale. Le template utilisé peut être trouvé à [ce lien](https://1.com).
+L'application est construite en utilisant **Bootstrap** pour un design réactif et une interface utilisateur conviviale. Le template utilisé peut être trouvé à [ce lien]((https://htmlrev.com/free-html-templates.html)).
 
 ---
 
