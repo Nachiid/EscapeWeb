@@ -78,7 +78,7 @@ English
 
 This web application is designed to engage users in football-related quizzes and manage quiz scenarios with multiple steps. It includes role-based user profiles such as Administrators and Organizers, who can create and manage quizzes. Users can also interact with the quizzes by viewing scenarios and participating in them.
 
-The application is built using **Bootstrap** for its responsive design and user interface. The template used can be found at [this link](https://1.com).
+The application is built using **Bootstrap** for its responsive design and user interface. The template used can be found at [this link]((https://htmlrev.com/free-html-templates.html)).
 
 ---
 
