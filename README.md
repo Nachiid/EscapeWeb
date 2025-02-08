@@ -1,6 +1,15 @@
-Francais
+### Français
 
 # Application Web Quiz Football - README
+
+## État du projet
+
+**⚠️ Ce projet est actuellement en cours de développement.**  
+Des corrections et des optimisations sont en cours pour améliorer les fonctionnalités existantes et résoudre les problèmes identifiés. Les améliorations prévues incluent :  
+- L'ouverture des liens des indices dans une nouvelle page.  
+- Le nettoyage et l'optimisation du code et de la base de données.  
+
+---
 
 ## Informations sur le projet
 
@@ -58,12 +67,22 @@ Les mots de passe sont traités de manière sécurisée dans l'application. Lors
 - Étendre le processus de création de scénarios pour permettre l'ajout complet de plusieurs étapes, indices, et ressources.
 - Ajouter une validation pour les noms d'images téléchargées par les utilisateurs ou les organisateurs.
 
+---
 
+---
 
-
-English
+### English
 
 # Football Quiz Web Application - README
+
+## Project Status
+
+**⚠️ This project is currently under development.**  
+Corrections and optimizations are ongoing to improve existing features and resolve identified issues. Planned improvements include:  
+- Opening hint links in a new page.  
+- Cleaning and optimizing the code and database.  
+
+---
 
 ## Project Information
 
@@ -109,7 +128,6 @@ The application is built using **Bootstrap** for its responsive design and user 
   - `generer_sce_code` (before scenario insertion) generates a random string for the new scenario code.
   - `sale_hacher_mdp` (after profile insertion) replaces the plain-text password with a salted and hashed version.
 
-
 ### Security and Password Management
 
 Passwords are securely handled within the application. Upon account creation, the entered password is salted and hashed through a procedure in the database, ensuring secure storage. Administrators and organizers can change their passwords via their profile pages.
@@ -122,3 +140,4 @@ Passwords are securely handled within the application. Upon account creation, th
 - Expand the scenario creation process to allow for the complete addition of multiple steps, hints, and resources.
 - Add validation for the names of images uploaded by users or organizers.
 
+---
