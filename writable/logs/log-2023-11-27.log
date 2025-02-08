@@ -1,0 +1,293 @@
+ERROR - 2023-11-27 12:06:44 --> mysqli_sql_exception: Unknown column 'act_activite' in 'where clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(34): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Accueil.php(12): App\Models\Db_model->get_all_actualites()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 12:06:44 --> chmod() has been disabled for security reasons
+in SYSTEMPATH/Log/Handlers/FileHandler.php on line 117.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/Log/Handlers/FileHandler.php(117): chmod()
+ 3 SYSTEMPATH/Log/Logger.php(292): CodeIgniter\Log\Handlers\FileHandler->handle()
+ 4 SYSTEMPATH/Common.php(810): CodeIgniter\Log\Logger->log()
+ 5 SYSTEMPATH/Database/MySQLi/Connection.php(308): log_message()
+ 6 SYSTEMPATH/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+ 7 SYSTEMPATH/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+ 8 APPPATH/Models/Db_model.php(34): CodeIgniter\Database\BaseConnection->query()
+ 9 APPPATH/Controllers/Accueil.php(12): App\Models\Db_model->get_all_actualites()
+10 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+11 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+12 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+13 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-27 13:28:24 --> mysqli_sql_exception: Unknown column 'X1FODF1' in 'where clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 13:28:24 --> Unknown column 'X1FODF1' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-27 13:29:33 --> mysqli_sql_exception: Unknown column 'X1FODF1' in 'where clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 13:29:33 --> Unknown column 'X1FODF1' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-27 13:29:34 --> mysqli_sql_exception: Unknown column 'X1FODF1' in 'where clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 13:29:34 --> Unknown column 'X1FODF1' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-27 13:29:50 --> mysqli_sql_exception: Unknown column 'X1FODF1' in 'where clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 13:29:50 --> Unknown column 'X1FODF1' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 13:42:06 --> Undefined variable: scenario_id
+in APPPATH/Controllers/Scenario.php on line 13.
+ 1 APPPATH/Controllers/Scenario.php(13): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Scenario->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-27 13:58:03 --> mysqli_sql_exception: Unknown column 'etp_id' in 'from clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 13:58:03 --> Unknown column 'etp_id' in 'from clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+ERROR - 2023-11-27 13:59:44 --> mysqli_sql_exception: Unknown column 'ind_difficulte' in 'where clause' in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-11-27 13:59:44 --> Unknown column 'ind_difficulte' in 'where clause'
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(61): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:11:58 --> Undefined property: stdClass::$res_chemin
+in APPPATH/Views/affichage_etape.php on line 27.
+ 1 APPPATH/Views/affichage_etape.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Etape.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:12:36 --> Undefined property: stdClass::$res_chemin
+in APPPATH/Views/affichage_etape.php on line 27.
+ 1 APPPATH/Views/affichage_etape.php(27): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Etape.php(18): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:17:36 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:17:36 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:20:21 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:23:06 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:23:10 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:25:32 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:26:49 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(27): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:31:29 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(26): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-11-27 14:31:38 --> Return value of CodeIgniter\HTTP\SiteURI::stringifyRelativePath() must be of the type string, null returned
+in SYSTEMPATH/HTTP/SiteURI.php on line 401.
+ 1 SYSTEMPATH/HTTP/SiteURI.php(375): CodeIgniter\HTTP\SiteURI->stringifyRelativePath()
+ 2 SYSTEMPATH/Helpers/url_helper.php(54): CodeIgniter\HTTP\SiteURI->baseUrl()
+ 3 APPPATH/Views/affichage_etape.php(26): base_url()
+ 4 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 5 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 6 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 7 APPPATH/Controllers/Etape.php(18): view()
+ 8 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 9 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+10 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+11 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

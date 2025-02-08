@@ -1,0 +1,77 @@
+CRITICAL - 2023-10-26 07:30:57 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:30:57 --> Uncaught ErrorException: chmod() has been disabled for security reasons in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Log/Handlers/FileHandler.php:117
+Stack trace:
+#0 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Log/Handlers/FileHandler.php(117): chmod()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Log/Logger.php(292): CodeIgniter\Log\Handlers\FileHandler->handle()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Common.php(810): CodeIgniter\Log\Logger->log()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Debug/Exceptions.php(131): log_message()
+#5 [internal function]: CodeIgniter\Debug\Exceptions->exceptionHandler()
+#6 {main}
+  thrown
+【Previous Exception】
+ErrorException
+Undefined variable: donnee
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#5 {main}
+in SYSTEMPATH/Log/Handlers/FileHandler.php on line 117.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->shutdownHandler()
+CRITICAL - 2023-10-26 07:31:12 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:39:48 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:52:19 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:53:31 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:54:42 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:58:51 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-10-26 07:58:53 --> Undefined variable: donnee
+in APPPATH/Controllers/Accueil.php on line 9.
+ 1 APPPATH/Controllers/Accueil.php(9): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Accueil->afficher()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()

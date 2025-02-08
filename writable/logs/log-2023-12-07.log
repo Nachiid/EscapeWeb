@@ -1,0 +1,1097 @@
+INFO - 2023-12-07 00:06:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:08:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:10:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:11:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:17:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:27:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:31:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:31:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:31:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:31:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:32:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:33:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:34:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:35:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:36:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 00:36:01 --> Undefined variable: titre
+in APPPATH/Views/connexion/creer_scenario.php on line 12.
+ 1 APPPATH/Views/connexion/creer_scenario.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/creer_scenario.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(293): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->afficher_formulaire()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 00:36:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 00:36:54 --> Undefined variable: titre
+in APPPATH/Views/connexion/creer_scenario.php on line 12.
+ 1 APPPATH/Views/connexion/creer_scenario.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/creer_scenario.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(294): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->afficher_formulaire()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 00:37:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 00:37:06 --> Undefined variable: titre
+in APPPATH/Views/connexion/creer_scenario.php on line 12.
+ 1 APPPATH/Views/connexion/creer_scenario.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/creer_scenario.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(294): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->afficher_formulaire()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 00:37:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 00:37:22 --> Undefined variable: titre
+in APPPATH/Views/connexion/creer_scenario.php on line 12.
+ 1 APPPATH/Views/connexion/creer_scenario.php(12): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/creer_scenario.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(294): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->afficher_formulaire()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 00:37:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:38:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:39:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:39:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:40:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:40:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:40:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:40:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:41:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:41:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:45:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:48:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 00:48:42 --> Undefined index: userfile
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 APPPATH/Controllers/Compte.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 00:56:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 00:56:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 00:56:05 --> Undefined index: userfile
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 APPPATH/Controllers/Compte.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:07:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:07:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:07:37 --> Undefined index: userfile
+in APPPATH/Controllers/Compte.php on line 317.
+ 1 APPPATH/Controllers/Compte.php(317): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:14:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:14:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:14:20 --> Undefined index: userfile
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 APPPATH/Controllers/Compte.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:16:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:17:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:19:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:21:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:21:32 --> Undefined variable: img_nom
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 APPPATH/Controllers/Compte.php(313): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:21:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:21:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:21:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:26:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:26:34 --> basename() expects parameter 1 to be string, array given
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(313): basename()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:27:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:27:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:27:33 --> Call to a member function getName() on array
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:29:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:29:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:29:19 --> Call to a member function getName() on array
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:30:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:30:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:30:58 --> Undefined offset: 0
+in APPPATH/Controllers/Compte.php on line 309.
+ 1 APPPATH/Controllers/Compte.php(309): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:32:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:32:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:32:02 --> Call to a member function getName() on null
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:45:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:45:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:45:24 --> Call to a member function getName() on null
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 01:46:08 --> syntax error, unexpected '}', expecting ';' or ','
+in APPPATH/Controllers/Compte.php on line 324.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 [internal function]: spl_autoload_call()
+ 5 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 6 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 01:46:11 --> syntax error, unexpected '}', expecting ';' or ','
+in APPPATH/Controllers/Compte.php on line 324.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 [internal function]: spl_autoload_call()
+ 5 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 6 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 01:46:22 --> syntax error, unexpected '}', expecting ';' or ','
+in APPPATH/Controllers/Compte.php on line 324.
+ 1 SYSTEMPATH/Autoloader/Autoloader.php(285): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH/Autoloader/Autoloader.php(263): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 [internal function]: spl_autoload_call()
+ 5 SYSTEMPATH/CodeIgniter.php(877): class_exists()
+ 6 SYSTEMPATH/CodeIgniter.php(481): CodeIgniter\CodeIgniter->startController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:47:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:47:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:47:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:47:09 --> Call to a member function getName() on null
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:47:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:47:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:47:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:47:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:47:36 --> Array to string conversion
+in APPPATH/Controllers/Compte.php on line 310.
+ 1 APPPATH/Controllers/Compte.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:47:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:48:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:48:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:48:27 --> Undefined index: userfile
+in APPPATH/Controllers/Compte.php on line 310.
+ 1 APPPATH/Controllers/Compte.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:49:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:49:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:49:10 --> Undefined variable: uploaddir
+in APPPATH/Controllers/Compte.php on line 310.
+ 1 APPPATH/Controllers/Compte.php(310): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:49:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:49:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:51:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:51:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:52:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:52:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:53:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:54:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:54:29 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:54:29 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 314.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(314): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:57:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:57:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:57:30 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/imagesimg2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 314.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(314): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 01:57:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 01:57:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 01:57:40 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 314.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(314): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:00:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:00:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:00:36 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(313): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:04:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:04:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:04:44 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 313.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(313): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:07:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:07:26 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 316.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(316): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:15:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:15:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:15:20 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 316.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(316): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:15:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:15:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:15:33 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 316.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(316): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:15:56 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:15:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:15:57 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/imagesimg2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 316.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(316): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:16:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:16:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:16:53 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 316.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(316): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:17:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:17:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:19:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:19:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:19:44 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:21:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:21:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:21:50 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/app/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:24:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:24:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:24:09 --> move_uploaded_file(../../public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:27:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:27:59 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/public/public/bootstrap/images/img2.jpg): failed to open stream: No such file or directory
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:28:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:28:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:28:32 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/public//bootstrap/images/img2.jpg): failed to open stream: Permission denied
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:28:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:28:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:28:40 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/public/bootstrap/images/img2.jpg): failed to open stream: Permission denied
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:29:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:29:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:29:18 --> move_uploaded_file(): The second argument to copy() function cannot be a directory
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 02:32:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 02:32:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 02:32:13 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/public/bootstrap/images/img2.jpg): failed to open stream: Permission denied
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 11:59:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:01:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:02:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:02:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:02:20 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:02:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:02:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:04:54 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:05:14 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 12:05:14 --> move_uploaded_file(/home/2023DIFAL3/e22111435/public_html/V1/ci/public/bootstrap/images/souris.jpeg): failed to open stream: Permission denied
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(315): move_uploaded_file()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 12:05:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:05:32 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 12:09:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 15:59:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 15:59:30 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 15:59:31 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:00:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:00:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:01:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:01:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:10:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:12:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:23:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 16:23:45 --> Trying to get property 'sce_activite' of non-object
+in APPPATH/Views/connexion/scenarios_affichage.php on line 75.
+ 1 APPPATH/Views/connexion/scenarios_affichage.php(75): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/scenarios_affichage.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(277): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->listerscenario()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 16:25:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 16:25:17 --> Trying to get property 'sce_activite' of non-object
+in APPPATH/Views/connexion/scenarios_affichage.php on line 75.
+ 1 APPPATH/Views/connexion/scenarios_affichage.php(75): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/scenarios_affichage.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(277): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->listerscenario()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 16:25:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 16:25:18 --> Trying to get property 'sce_activite' of non-object
+in APPPATH/Views/connexion/scenarios_affichage.php on line 75.
+ 1 APPPATH/Views/connexion/scenarios_affichage.php(75): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/connexion/scenarios_affichage.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Compte.php(277): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->listerscenario()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 16:26:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:27:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:27:12 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:27:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:27:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:27:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:27:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:28:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 16:29:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:09:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:14:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:16:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:18:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:22:15 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:22:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:28:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:28:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:28:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:32:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:32:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 17:32:47 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etapet_ept_T_ressource_res` FOREIGN KEY (`res_id`) REFERENCES `T_ressource_res` (`res_id`)) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(221): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 17:32:47 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etapet_ept_T_ressource_res` FOREIGN KEY (`res_id`) REFERENCES `T_ressource_res` (`res_id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(221): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 17:50:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:50:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:50:40 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:50:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:51:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 17:51:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:04:17 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:04:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:04:19 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get_scenario()
+in APPPATH/Models/Db_model.php on line 218.
+ 1 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:05:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:05:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:05:11 --> Call to undefined method CodeIgniter\Database\MySQLi\Connection::get_scenario()
+in APPPATH/Models/Db_model.php on line 218.
+ 1 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:07:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:07:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:07:09 --> Undefined variable: ind
+in APPPATH/Models/Db_model.php on line 219.
+ 1 APPPATH/Models/Db_model.php(219): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:07:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:07:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:07:25 --> Undefined variable: ind
+in APPPATH/Models/Db_model.php on line 219.
+ 1 APPPATH/Models/Db_model.php(219): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:09:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:09:22 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:09:22 --> Invalid argument supplied for foreach()
+in APPPATH/Models/Db_model.php on line 219.
+ 1 APPPATH/Models/Db_model.php(219): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:13:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:13:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:13:21 --> Invalid argument supplied for foreach()
+in APPPATH/Models/Db_model.php on line 230.
+ 1 APPPATH/Models/Db_model.php(230): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:16:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:16:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 18:16:10 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(253): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 18:16:10 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(253): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:21:48 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:21:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 18:21:52 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(249): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 18:21:52 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(249): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:27:34 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:28:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 18:28:02 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(249): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 18:28:02 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(249): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:28:05 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:29:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:34:09 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:34:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:35:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:36:41 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:36:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:37:01 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:38:00 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:39:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:39:10 --> Trying to get property 'ind_id' of non-object
+in APPPATH/Models/Db_model.php on line 226.
+ 1 APPPATH/Models/Db_model.php(226): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:44:10 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:44:11 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:44:11 --> Trying to get property 'ind_id' of non-object
+in APPPATH/Models/Db_model.php on line 230.
+ 1 APPPATH/Models/Db_model.php(230): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:45:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:45:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:45:44 --> Array to string conversion
+in APPPATH/Models/Db_model.php on line 224.
+ 1 APPPATH/Models/Db_model.php(224): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Models/Db_model.php(230): App\Models\Db_model->get_scenario_table()
+ 3 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:47:04 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:47:06 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:47:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 18:47:50 --> Trying to get property 'ind_id' of non-object
+in APPPATH/Models/Db_model.php on line 230.
+ 1 APPPATH/Models/Db_model.php(230): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:47:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:47:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 18:47:59 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(252): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 18:47:59 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(252): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 18:53:27 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 18:53:28 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 18:53:28 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etapet_ept_T_ressource_res` FOREIGN KEY (`res_id`) REFERENCES `T_ressource_res` (`res_id`)) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(241): CodeIgniter\Database\BaseBuilder->delete()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#9 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#10 {main}
+CRITICAL - 2023-12-07 18:53:28 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etapet_ept_T_ressource_res` FOREIGN KEY (`res_id`) REFERENCES `T_ressource_res` (`res_id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 SYSTEMPATH/Database/BaseBuilder.php(2790): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Models/Db_model.php(241): CodeIgniter\Database\BaseBuilder->delete()
+ 3 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 5 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:03:37 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:03:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 19:03:38 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(252): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 19:03:38 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(252): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:05:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:05:19 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 19:05:19 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(252): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 19:05:19 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etape_etp_T_scenario_sce1` FOREIGN KEY (`sce_id`) REFERENCES `T_scenario_sce` (`sce_id`) ON DELETE NO ACTION ON UPDATE NO ACTION)
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(252): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:09:16 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:09:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:09:18 --> Undefined variable: infos_sce
+in APPPATH/Models/Db_model.php on line 264.
+ 1 APPPATH/Models/Db_model.php(264): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:09:51 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:09:53 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:09:53 --> Trying to get property 'ind_id' of non-object
+in APPPATH/Models/Db_model.php on line 265.
+ 1 APPPATH/Models/Db_model.php(265): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:11:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:11:47 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:11:47 --> Trying to get property 'res_id' of non-object
+in APPPATH/Models/Db_model.php on line 269.
+ 1 APPPATH/Models/Db_model.php(269): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:14:33 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:14:35 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 19:14:35 --> mysqli_sql_exception: Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etapet_ept_T_ressource_res` FOREIGN KEY (`res_id`) REFERENCES `T_ressource_res` (`res_id`)) in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(271): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 19:14:35 --> Cannot delete or update a parent row: a foreign key constraint fails (`e22111435_db1`.`T_etape_etp`, CONSTRAINT `fk_T_etapet_ept_T_ressource_res` FOREIGN KEY (`res_id`) REFERENCES `T_ressource_res` (`res_id`))
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(271): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Compte.php(341): App\Models\Db_model->supprimer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->supprimer_scenario()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:15:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:16:36 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:25:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:31:45 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:31:58 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:31:58 --> Undefined variable: uploaddir
+in APPPATH/Controllers/Compte.php on line 312.
+ 1 APPPATH/Controllers/Compte.php(312): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:32:07 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:32:08 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:32:08 --> Undefined variable: fichier
+in APPPATH/Controllers/Compte.php on line 315.
+ 1 APPPATH/Controllers/Compte.php(315): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:32:25 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:32:26 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:32:26 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(185): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/Compte.php(315): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:35:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:35:24 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:35:24 --> fopen(images/index.html): failed to open stream: No such file or directory
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 188.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(188): fopen()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/Compte.php(315): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:36:02 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:36:03 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:36:03 --> Call to undefined method CodeIgniter\HTTP\Files\UploadedFile::setPath()
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 139.
+ 1 APPPATH/Controllers/Compte.php(315): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:36:13 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:36:13 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(185): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/Compte.php(315): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:38:38 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:38:39 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:38:39 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(185): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/Compte.php(315): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:40:43 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:41:21 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+CRITICAL - 2023-12-07 19:41:21 --> mkdir(): Permission denied
+in SYSTEMPATH/HTTP/Files/UploadedFile.php on line 185.
+ 1 [internal function]: CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/HTTP/Files/UploadedFile.php(185): mkdir()
+ 3 SYSTEMPATH/HTTP/Files/UploadedFile.php(139): CodeIgniter\HTTP\Files\UploadedFile->setPath()
+ 4 APPPATH/Controllers/Compte.php(315): CodeIgniter\HTTP\Files\UploadedFile->move()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Compte->creer_scenario()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 19:56:44 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:56:46 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 19:56:50 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 20:26:42 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 20:27:23 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 20:34:57 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 20:48:18 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+ERROR - 2023-12-07 21:26:26 --> mysqli_sql_exception: Column 'etp_id' in field list is ambiguous in /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php:306
+Stack trace:
+#0 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/MySQLi/Connection.php(306): mysqli->query()
+#1 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(692): CodeIgniter\Database\MySQLi\Connection->execute()
+#2 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/Database/BaseConnection.php(606): CodeIgniter\Database\BaseConnection->simpleQuery()
+#3 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Models/Db_model.php(84): CodeIgniter\Database\BaseConnection->query()
+#4 /home/2023DIFAL3/e22111435/public_html/V1/ci/app/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+#5 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+#6 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+#7 /home/2023DIFAL3/e22111435/public_html/V1/ci/system/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+#8 /home/2023DIFAL3/e22111435/public_html/V1/ci/public/index.php(79): CodeIgniter\CodeIgniter->run()
+#9 {main}
+CRITICAL - 2023-12-07 21:26:26 --> Column 'etp_id' in field list is ambiguous
+in SYSTEMPATH/Database/BaseConnection.php on line 646.
+ 1 APPPATH/Models/Db_model.php(84): CodeIgniter\Database\BaseConnection->query()
+ 2 APPPATH/Controllers/Etape.php(16): App\Models\Db_model->get_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 4 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 5 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 6 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 21:27:24 --> Call to undefined function form_open()
+in APPPATH/Views/affichage_etape.php on line 17.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Etape.php(20): view()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 21:32:23 --> Call to undefined function form_open()
+in APPPATH/Views/affichage_etape.php on line 17.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Etape.php(20): view()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 21:49:55 --> Call to undefined function form_open()
+in APPPATH/Views/affichage_etape.php on line 18.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Etape.php(22): view()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 21:50:08 --> Undefined property: stdClass::$etp_reponse
+in APPPATH/Views/affichage_etape.php on line 25.
+ 1 APPPATH/Views/affichage_etape.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Etape.php(22): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 21:54:10 --> Undefined property: stdClass::$etp_reponse
+in APPPATH/Views/affichage_etape.php on line 25.
+ 1 APPPATH/Views/affichage_etape.php(25): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/View/View.php(226): include('/home/2023DIFAL3/e22111435/public_html/V1/ci/app/Views/affichage_etape.php')
+ 3 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 5 APPPATH/Controllers/Etape.php(22): view()
+ 6 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 7 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:21:49 --> Call to undefined function form_open()
+in APPPATH/Views/affichage_etape.php on line 19.
+ 1 SYSTEMPATH/View/View.php(226): include()
+ 2 SYSTEMPATH/View/View.php(229): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH/Common.php(1188): CodeIgniter\View\View->render()
+ 4 APPPATH/Controllers/Etape.php(22): view()
+ 5 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->afficher()
+ 6 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:35:09 --> Undefined variable: code_sce
+in APPPATH/Controllers/Etape.php on line 59.
+ 1 APPPATH/Controllers/Etape.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:35:15 --> Undefined variable: code_sce
+in APPPATH/Controllers/Etape.php on line 59.
+ 1 APPPATH/Controllers/Etape.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:36:50 --> Undefined variable: code_sce
+in APPPATH/Controllers/Etape.php on line 59.
+ 1 APPPATH/Controllers/Etape.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:37:25 --> Undefined variable: code_sce
+in APPPATH/Controllers/Etape.php on line 59.
+ 1 APPPATH/Controllers/Etape.php(59): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:37:50 --> Call to undefined method App\Controllers\Etape::get_scenario()
+in APPPATH/Controllers/Etape.php on line 41.
+ 1 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 2 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 3 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 4 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:38:59 --> Undefined variable: niveaudifficulte
+in APPPATH/Controllers/Etape.php on line 58.
+ 1 APPPATH/Controllers/Etape.php(58): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2023-12-07 22:42:47 --> Undefined variable: niveaudifficulte
+in APPPATH/Controllers/Etape.php on line 58.
+ 1 APPPATH/Controllers/Etape.php(58): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH/CodeIgniter.php(919): App\Controllers\Etape->get_next_etape()
+ 3 SYSTEMPATH/CodeIgniter.php(494): CodeIgniter\CodeIgniter->runController()
+ 4 SYSTEMPATH/CodeIgniter.php(353): CodeIgniter\CodeIgniter->handleRequest()
+ 5 FCPATH/index.php(79): CodeIgniter\CodeIgniter->run()
+INFO - 2023-12-07 23:10:52 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 23:10:55 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
+INFO - 2023-12-07 23:10:59 --> Session: Class initialized using 'CodeIgniter\Session\Handlers\FileHandler' driver.
